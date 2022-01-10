@@ -1,7 +1,6 @@
 
-# Welcome! Badges 1 README.md Profile
+# Welcome! Badges 1
 
-Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
 
 ## How to use?
 1. Get a URL
