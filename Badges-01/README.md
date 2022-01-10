@@ -862,7 +862,9 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) and Contributors:
 
-| [<img alt="max-programming" src="https://github.com/max-programming.png?size=115" width="115"><br><sub>@max-programming</sub>](https://github.com/max-programming) | 
+| [<img alt="max-programming" src="https://github.com/max-programming.png?size=115" width="115"><br><sub>@max-programming</sub>](https://github.com/max-programming) | [<img alt="rienath" src="https://github.com/rienath.png?size=115" width="115"><br><sub>@rienath</sub>](https://github.com/rienath) | [<img alt="XeQariX" src="https://github.com/XeQariX.png?size=115" width="115"><br><sub>@XeQariX</sub>](https://github.com/XeQariX) | [<img alt="jackwilliamgray" src="https://github.com/jackwilliamgray.png?size=115" width="115"><br><sub>@jackwilliamgray</sub>](https://github.com/jackwilliamgray) | [<img alt="marcelo-s-correa" src="https://github.com/marcelo-s-correa.png?size=115" width="115"><br><sub>@marcelo-s-correa</sub>](https://github.com/marcelo-s-correa) | [<img alt="shivamkapasia0" src="https://github.com/shivamkapasia0.png?size=115" width="115"><br><sub>@shivamkapasia0</sub>](https://github.com/shivamkapasia0) |
+| :---: |:---: |:---: |:---: |:---: |:---: |
+
 Author:
 | [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) |
 | :---: |
